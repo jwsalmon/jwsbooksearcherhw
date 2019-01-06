@@ -37,7 +37,7 @@ const SideNav = (props) => {
   return (
     <div>
       <Typography align="center" variant="h2" color="textPrimary">
-        Google<br/>Book<br/>Search
+        Book<br/>Search
       </Typography>
       <Divider/>
 
