@@ -1,0 +1,16 @@
+{
+  "name": "jwsbooksearcherhw",
+  "version": "1.0.0",
+  "description": "React-based Google Books Search app",
+  "main": "server.js",
+  "repository": "https://github.com/jwsalmon/jwsbooksearcherhw.git",
+  "author": "Jesse W. Salmon <j_aw_s@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.4.2",
+    "node": "^8.11.3"
+  }
+}
