@@ -69,7 +69,7 @@ class App extends Component {
           return {
             bookId: book.id,
             title: book.volumeInfo.title,
-            authors: book.volumeInfo.authors || "Alex Rosenkranz",
+            authors: book.volumeInfo.authors || "Jesse Salmon",
             description: (book.searchInfo) ? book.searchInfo.textSnippet : "No Description",
             link: book.volumeInfo.infoLink,
             image: (book.volumeInfo.imageLinks) ? book.volumeInfo.imageLinks.thumbnail : "https://via.placeholder.com/100x250"
